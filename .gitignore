@@ -2,7 +2,6 @@
 data_processing.ipynb
 
 # csv or excel
-pqueue*.csv
 pqueue*.xlsx
 
 # vscode settings
